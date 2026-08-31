@@ -1,7 +1,7 @@
-# -Scribble-annotate-extension
-This is a full Manifest V3 extension — one codebase that installs identically in Chrome and Edge (they share the same extension format).
-# Scribble — Annotate & Snip Anywhere
 
+# Scribble — Annotate & Snip Anywhere
+#Microsoft Edge Add-Ons link=
+https://microsoftedge.microsoft.com/addons/detail/fjkejlonkacdbnaiinnondfbhdajckic
 A browser extension that lets you draw, highlight, and snip on top of **any** webpage.
 Works identically in **Google Chrome** and **Microsoft Edge** (and any other Chromium
 browser — Brave, Vivaldi, Opera, Arc) because they all support the same extension
